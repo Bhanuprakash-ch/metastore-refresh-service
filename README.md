@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/trustedanalytics/metastore-refresh-service/badges/gpa.svg)](https://codeclimate.com/github/trustedanalytics/metastore-refresh-service)
+
 # metastore-refresh-service
 Service for refreshing metastore data about tables for Impala
 
